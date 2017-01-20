@@ -17,6 +17,15 @@ The following **required** functionality is complete:
 ## Notes
 
 Difficulty in understanding errors and debugging
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://imgur.com/fJC1p4g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## License
 
     Copyright [2017] [Syed Zafar Shah
