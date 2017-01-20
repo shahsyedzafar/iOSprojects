@@ -16,7 +16,7 @@ The following **required** functionality is complete:
 
 ## Notes
 
-Unable to understand errors and debug
+Difficulty in understanding errors and debugging
 ## License
 
     Copyright [2017] [Syed Zafar Shah
