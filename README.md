@@ -22,7 +22,7 @@ Difficulty in understanding errors and debugging
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/fJC1p4g' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='http://imgur.com/fJC1p4g.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 
 
